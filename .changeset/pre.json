@@ -7,7 +7,8 @@
     "@optiaxiom/react": "0.1.0-alpha.1",
     "@optiaxiom/shared": "0.0.0",
     "@optiaxiom/web-components": "0.1.0-next.0",
-    "@optiaxiom/globals": "0.1.0"
+    "@optiaxiom/globals": "0.1.0",
+    "@optiaxiom/figma": "0.0.0"
   },
   "changesets": [
     "brave-pigs-clap",
@@ -27,11 +28,13 @@
     "pink-lizards-flash",
     "proud-dancers-sip",
     "quick-apricots-sparkle",
+    "serious-beans-explain",
     "shaggy-deers-kiss",
     "sharp-boxes-wait",
     "short-queens-design",
     "slow-radios-speak",
     "stale-bears-allow",
+    "ten-apricots-notice",
     "tender-bikes-taste",
     "thin-students-switch",
     "tiny-pets-jog",
