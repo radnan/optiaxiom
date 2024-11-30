@@ -1,5 +1,15 @@
 # @optiaxiom/react
 
+## 0.1.0-next.20
+
+### Minor Changes
+
+- 0f172bc: rename Toggle to ToggleButton
+
+### Patch Changes
+
+- eb586da: only apply fallback delay if no image is present
+
 ## 0.1.0-next.19
 
 ### Patch Changes
